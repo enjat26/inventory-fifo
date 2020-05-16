@@ -17,7 +17,7 @@
                 <li class=""><a class="nav-link" href="<?= base_url('rak')?>">Data Rak</a></li>
                 <li class=""><a class="nav-link" href="<?= base_url('barang')?>">Data Barang</a></li>
                 <li class=""><a class="nav-link" href="<?= base_url('customer')?>">Data Customer</a></li>
-                <li class=""><a class="nav-link" href="<?= base_url('supplier')?>">Data Supplier</a></li>
+                {{-- <li class=""><a class="nav-link" href="">Data Supplier</a></li> --}}
             </ul>
         </li>
          <li class="nav-item dropdown">
